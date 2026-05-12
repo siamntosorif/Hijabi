@@ -148,7 +148,7 @@ export default function SupportWidget() {
               <div className="flex-1 flex flex-col justify-center p-6 gap-4">
                 <p className="text-zinc-400 text-sm text-center mb-4">How would you like to contact us?</p>
                 <a 
-                  href="https://t.me/yourtelegramid" 
+                  href="https://t.me/xorif_hijab" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 p-4 rounded-lg bg-zinc-900 border border-zinc-800 hover:border-cyan-500 transition-colors group"
