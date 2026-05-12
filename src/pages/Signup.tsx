@@ -336,7 +336,7 @@ export default function Signup() {
                   </div>
                   <div className="space-y-1 col-span-2">
                     <label className="text-[10px] uppercase tracking-wider text-zinc-500">Primary Interest *</label>
-                    <input {...register("interest")} className="w-full bg-zinc-950 border border-zinc-800 rounded px-3 py-2 text-sm text-white focus:border-cyan-500 outline-none focus:ring-1 focus:ring-cyan-500" placeholder="e.g. Web Development, Gaming" />
+                    <input {...register("interest")} className="w-full bg-zinc-950 border border-zinc-800 rounded px-3 py-2 text-sm text-white focus:border-cyan-500 outline-none focus:ring-1 focus:ring-cyan-500" placeholder="e.g. Mazhabi, Incest, Child, Gay" />
                     {errors.interest && <p className="text-red-400 text-xs">{errors.interest.message}</p>}
                   </div>
               </div>
